@@ -25,11 +25,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,aws,python,vscode,html,css" />
-</p>
-
-<p align="center">
-  <!-- Oracle Cloud shown separately -->
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,aws,nodejs,kubernetes,python" />
 </p>
 
 <p align="center">
