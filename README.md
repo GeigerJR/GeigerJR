@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/GeigerJR/GeigerJR/assets/banner.png" alt="Banner - Engr. Phillip PhD" width="100%" />
+</p>
+
 ## Hello, World! 👋  
 ### I'm **Engr. Phillip PhD**  
 #### _“DevOps Engineer | Coffee-fueled Linux Ninja | Keeping infrastructure smooth and secure. | Automating the boring stuff”_
@@ -22,13 +27,33 @@
 
 ---
 
-### 🛠️ Tech Stack & Badges
+## 🧰 Tech Stack
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-blueviolet?style=for-the-badge)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,aws,oracle,python,vscode,html,css" />
+</p>
+
+---
+
+## 📜 Certifications & Tools
+![AWS Certified](https://img.shields.io/badge/AWS%20Certified-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat&logo=oracle&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Proficient-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GeigerJR&show_icons=true&theme=radical" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeigerJR&layout=compact&theme=radical" height="170px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeigerJR&theme=radical" height="150px" />
+</p>
 
 ---
 
