@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="my-banner.png" alt="Banner - Engr. Phillip PhD" width="100%" />
+  <img src="my-banner.png" alt="Banner - Engr. Phillip PhD" width="25%" />
 </p>
 
 ## Hello, World! 👋  
