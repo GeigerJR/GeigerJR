@@ -25,7 +25,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,aws,oracle cloud,python,vscode,html,css" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,aws,oracle-cloud,python,vscode,html,css" />
 </p>
 
 ---
