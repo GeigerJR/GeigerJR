@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="my-banner.png" alt="Banner - Engr. Phillip PhD" width="50%" />
-</p>
-
 ## Hello, World! 👋  
 ### I'm **Engr. Phillip PhD**  
 #### _“DevOps Engineer | Coffee-fueled Linux Ninja | Keeping infrastructure smooth and secure. | Automating the boring stuff”_
