@@ -1,6 +1,5 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/GeigerJR/GeigerJR/assets/banner.png" alt="Banner - Engr. Phillip PhD" width="100%" />
+  <img src="my-banner.png" alt="Banner - Engr. Phillip PhD" width="100%" />
 </p>
 
 ## Hello, World! 👋  
