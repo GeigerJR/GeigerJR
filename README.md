@@ -25,7 +25,11 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,aws,oracle-cloud,python,vscode,html,css" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,aws,python,vscode,html,css" />
+</p>
+
+<p align="center">
+  ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 </p>
 
 ---
