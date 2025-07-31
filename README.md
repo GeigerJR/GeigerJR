@@ -25,13 +25,15 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,aws,nodejs,kubernetes,python" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,aws,nodejs,kubernetes,mongodb,python" />
 </p>
 
 <p align="center">
+  <!-- Oracle Cloud styled badge -->
   <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tomcat-005571?style=for-the-badge&logo=apachetomcat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-CA2130?style=for-the-badge&logo=apache&logoColor=white" />
 </p>
-
 ---
 
 ## 📜 Certifications & Tools
