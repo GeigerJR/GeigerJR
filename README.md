@@ -14,7 +14,7 @@
 
 ### 📫 Connect with Me
 
-- 🐦 Twitter: [@Rbtm_301](https://x.com/Rbtm_301)  
+- 🐦 X: [@Rbtm_301](https://x.com/Rbtm_301)  
 - 💬 WhatsApp: [Click to Chat](https://wa.me/qr/VIQJ2H7YD2XFN1)  
 - 💼 LinkedIn: [Oyekanmi Phillip](https://www.linkedin.com/in/oyekanmi-phillip)  
 - 📧 Email: [oyekanmiphillip80@gmail.com](mailto:oyekanmiphillip80@gmail.com)  
